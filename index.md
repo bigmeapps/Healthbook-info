@@ -5,7 +5,7 @@ Developer: "BigMeApps"
 
 E-mail: feedback.bigmeapps@gmail.com 
 
-01 Jul 2020
+01 May 2026
 
 ### ENG:    Healthbook
 **Privacy Notice:**  only you have access to the data you enter and store using the application. 
