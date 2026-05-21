@@ -10,26 +10,9 @@ E-mail: feedback.bigmeapps@gmail.com
 ### ENG:    Healthbook
 **Privacy Notice:**  only you have access to the data you enter and store using the application. 
 We don't use any external servers to store your data and we do not collect any data that you input in the app.
-We do not have access to the data that you input.
+We do not have access to the data that you input. The data is stored entirely in your device internal memory and removed if you uninstall the app.
 Network connection is necessary for communication with advertisement provider and for the possibility 
 to buy in-app products (premium version with no ads). 
-
-For devices with Android 6.0 and later there is an auto backup option implemented. 
-Auto Backup for Apps automatically backs up a user's data from apps that target and run on Android 6.0 (API level 23) or later.
-Android preserves app data by uploading it to the user's Google Drive—where it's protected by the user's Google Account credentials.
-
-Users can see a list of apps that have been backed up in the Google Drive app under Settings -> Auto Backup for apps -> Manage backup.
-The backup data cannot be read by the user or other apps on the device.
-
-Backups occur automatically when all of the following conditions are met:
-    The user has enabled backup on the device in Settings > Backup & Reset.
-    At least 24 hours have elapsed since the last backup.
-    The device is idle and charging.
-    The device is connected to a Wi-Fi network. If the device is never connected to a wifi network, then Auto Backup never occurs.
-
-In practice, these conditions occur roughly every night.
-
-Data is restored whenever the app is installed, either from the Play store, during device setup (when the system installs previously installed apps)
 
 ### SPA:    Healthbook
 **Confidencialidad:**  nadie más que usted tiene acceso a los datos que introduzca y guardar con la aplicación. 
