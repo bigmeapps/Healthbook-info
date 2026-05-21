@@ -15,18 +15,16 @@ Network connection is necessary for communication with advertisement provider an
 to buy in-app products (premium version with no ads). 
 
 ### SPA:    Healthbook
-**Confidencialidad:**  nadie más que usted tiene acceso a los datos que introduzca y guardar con la aplicación. 
-La conexión de red es necesaria para la comunicación con el proveedor de publicidad y para la posibilidad de 
-comprar productos en la aplicación (versión premium sin publicidad).
+**Confidencialidad:**  Solo usted tiene acceso a los datos que introduce y almacena mediante la aplicación. No utilizamos servidores externos para almacenar sus datos ni recopilamos ninguna información que usted ingrese en la aplicación. No tenemos acceso a los datos que usted introduce. Los datos se almacenan íntegramente en la memoria interna de su dispositivo y se eliminan si desinstala la aplicación. Se requiere una conexión de red para la comunicación con el proveedor de publicidad y para la posibilidad de adquirir productos dentro de la aplicación (versión premium sin anuncios).
 
 ### FRA:    Healthbook
-**Remarque sur la confidentialité:**  personne, sauf si vous avez accès aux données que vous avez entrées et entreposez à l'aide de l'application. La connexion au réseau est nécessaire pour la communication avec le fournisseur de publicité et pour la possibilité d'acheter des produits dans une application (version premium sans publicité).
+**Remarque sur la confidentialité:**  Vous seul avez accès aux données que vous saisissez et stockez via l'application. Nous n'utilisons aucun serveur externe pour stocker vos données et nous ne collectons aucune des informations que vous saisissez dans l'application. Nous n'avons pas accès aux données que vous y entrez. Ces données sont stockées intégralement dans la mémoire interne de votre appareil et sont supprimées si vous désinstallez l'application. Une connexion réseau est nécessaire pour la communication avec le fournisseur de publicités, ainsi que pour permettre l'achat de produits intégrés à l'application (version premium sans publicités).
 
 ### DEU:    Baby Wörter
-**Privatsphäre und Datenschutz:**  Keiner, aber man bekommt Zugriff auf die Daten, die Sie mit der Anwendung eingeben und speichern. Netzwerkverbindung erforderlich ist für die Kommunikation mit Werbeanbietern und für die Möglichkeit, In-App-Produkte zu kaufen (Premium-Version ohne Anzeigen).
+**Privatsphäre und Datenschutz:**  Ausschließlich Sie haben Zugriff auf die Daten, die Sie mithilfe der Anwendung eingeben und speichern. Wir nutzen keine externen Server zur Speicherung Ihrer Daten und erfassen keinerlei Daten, die Sie in die App eingeben. Wir haben keinen Zugriff auf die von Ihnen eingegebenen Daten. Die Daten werden vollständig im internen Speicher Ihres Geräts abgelegt und gelöscht, sobald Sie die App deinstallieren. Eine Netzwerkverbindung ist für die Kommunikation mit Werbeanbietern sowie für die Möglichkeit zum Kauf von In-App-Produkten (Premium-Version ohne Werbung) erforderlich.
 
 ### RUS:    Healthbook
-**Конфиденциальность:**  никто кроме вас не имеет доступа к данным, которые вы вводите и храните при использовании приложения. Подключение к интернету необходимо для коммуникации с рекламным провайдером и для возможности совершать покупки внутри приложения (премиум-версия без рекламы).
+**Конфиденциальность:**  Только вы имеете доступ к данным, которые вводите и храните с помощью этого приложения. Мы не используем внешние серверы для хранения ваших данных и не собираем никакой информации, которую вы вводите в приложении. Мы не имеем доступа к вводимым вами данным. Все данные хранятся исключительно во внутренней памяти вашего устройства и удаляются при деинсталляции приложения. Подключение к сети необходимо для взаимодействия с поставщиком рекламы, а также для возможности приобретения внутриигровых продуктов (например, премиум-версии без рекламы).
 
 ### UKR:    Healthbook
-**Конфіденційність:**  ніхто крім вас не має доступу до даних, які ви вводите і зберігаєте при користуванні цим додатком. Підключення до інтернету необхідно для комунікації з рекламним провайдером і для можливості здійснювати покупки усередині додатку (преміум-версія без реклами).   
+**Конфіденційність:**  Тільки ви маєте доступ до даних, які вводите та зберігаєте за допомогою програми. Ми не використовуємо жодних зовнішніх серверів для зберігання ваших даних і не збираємо жодних даних, які ви вводите в програму. Ми не маємо доступу до даних, які ви вводите. Дані повністю зберігаються у внутрішній пам’яті вашого пристрою та видаляються, якщо ви видаляєте програму. Мережеве з’єднання необхідне для зв’язку з постачальником реклами та для можливості купувати продукти в програмі (преміум-версія без реклами).
